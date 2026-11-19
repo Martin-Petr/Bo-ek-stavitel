@@ -1,4 +1,3 @@
-
 #Úvod do stavby IKEA skříně
 Tento návod se bude skládat z #popisu druhu skříně#, #popisu manuálu# a později i #popisu procesu stavby# IKEA skříně.
 
@@ -52,5 +51,5 @@ Manuál je velice přehledný tak si ho raději rozdělíme do čtyři části ;
 • Police a tyče: Vložte podpěry polic do požadované výšky, položte na ně police a upevněte držáky na šatní tyč.
 • Sestavení dveří: Spojte jednotlivé panely skládacích dveří k sobě pomocí středových harmonikových pantů.
 • Zavěšení a seřízení: Nasaďte hotová křídla dveří na panty v korpusu skříně a zacvakněte horní vodicí kolečko do kolejničky. Nakonec šroubovákem jemně seřiďte panty tak, aby dveře nikde nedrhly a mezery mezi nimi byly rovnoměrné.
-
+<img width="1077" height="725" alt="Snímek obrazovky_19-11-2026_10746_www bing com" src="https://github.com/user-attachments/assets/0fdae044-ea42-40b8-8147-7f62875f3cb8" />
 https://manuall.cz/ikea-idanas-skrin/
