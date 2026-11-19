@@ -6,9 +6,11 @@ Tento návod se bude skládat z #popisu druhu skříně#, #popisu manuálu# a po
 Budeme skládat poličkovou šatní skříň se skládacími dveřmi
 - Skříň využívá harmonikový systém otevírání, který šetří místo v prostoru, a uvnitř nabízí kombinaci šatní tyče a policového systému
 - Naše skříň má rozměry:
-  |Šířka:| 121 cm|
-  |Výška:| 211 cm|
-  |Hloubka:| 59 cm|
+  |Parametry| Hodnoty|
+  |:--------|:-------|
+  |Šířka:   | 121 cm |
+  |Výška:   | 211 cm |
+  |Hloubka: | 59 cm  |
 - Je konstruovaná z úsporných materiálů
   • Hlavní konstrukce a dveře jsou z Dřevotříska a dřevovláknitá deska s voštinovou papírovou výplní (100% recyklovaný papír)
   • Šatní tyče a nohy je z masivního dřevo pro vyšší pevnost a nosnost
