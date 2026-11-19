@@ -30,26 +30,26 @@ Manuál je velice přehledný tak si ho raději rozdělíme do čtyři části ;
 
 1) Příprava prostoru a materiálu
 
-• Uvolnění místa: Vyčistěte dostatečně velkou plochu na podlaze ideálně přímo v místnosti, kde bude skříň stát.
-• Ochrana podlahy: Rozložte pod díly karton z krabic, abyste nepoškrábali podlahu ani samotné desky.
-• Třídění dílů: Vysypte si spojovací materiál (šroubky, dřevěné kolíky, excentry) do misek a zkontrolujte jejich počty podle prvních stran manuálu. Připravte si křížový a plochý šroubovák, gumovou paličku (nebo kladívko) a vrtačku pro ukotvení do zdi.
+[x] Uvolnění místa: Vyčistěte dostatečně velkou plochu na podlaze ideálně přímo v místnosti, kde bude skříň stát.
+[x] Ochrana podlahy: Rozložte pod díly karton z krabic, abyste nepoškrábali podlahu ani samotné desky.
+[x] Třídění dílů: Vysypte si spojovací materiál (šroubky, dřevěné kolíky, excentry) do misek a zkontrolujte jejich počty podle prvních stran manuálu. Připravte si křížový a plochý šroubovák, gumovou paličku (nebo kladívko) a vrtačku pro ukotvení do zdi.
 
 2) Sestavení základního korpusu (vleže)
 
-• Osazení kolíky a panty: Ještě před spojením desek namontujte na boční stěny a středovou příčku všechny dřevěné kolíky, excentrické šrouby a základny pantů. Dělat to vleže je mnohem snazší.
-• Spojení rámu: Spojte boční stěny, středovou příčku, dno a horní desku dohromady. Dbejte na to, aby pohledové (lakované) hrany směřovaly dopředu.
-• Připevnění zadní desky: Změřte úhlopříčky rámu metrem – musí být naprosto stejné, aby skříň nebyla zkřížená. Poté přibijte hřebíčky (nebo přišroubujte) zadní sololitovou desku, která celou konstrukci zpevní.
+[x] Osazení kolíky a panty: Ještě před spojením desek namontujte na boční stěny a středovou příčku všechny dřevěné kolíky, excentrické šrouby a základny pantů. Dělat to vleže je mnohem snazší.
+[x] Spojení rámu: Spojte boční stěny, středovou příčku, dno a horní desku dohromady. Dbejte na to, aby pohledové (lakované) hrany směřovaly dopředu.
+[x] Připevnění zadní desky: Změřte úhlopříčky rámu metrem – musí být naprosto stejné, aby skříň nebyla zkřížená. Poté přibijte hřebíčky (nebo přišroubujte) zadní sololitovou desku, která celou konstrukci zpevní.
 
 3) Vztyčení a kotvení ke zdi
 
-• Postavení skříně: Ve dvou lidech opatrně zvedněte korpus na nohy a přesuňte ho na finální místo.
-• Vyrovnání do roviny: Pomocí vodováhy a nastavitelných nožiček srovnejte skříň tak, aby se nekývala a stála naprosto rovně.
-• Kotvení do zdi: Pomocí přiložených úhelníků připevněte horní část skříně ke zdi (hmoždinky a vruty vyberte podle typu vaší zdi – cihla, panel, sádrokarton). Bez kotvení hrozí při otevření dveří převržení.
+[x] Postavení skříně: Ve dvou lidech opatrně zvedněte korpus na nohy a přesuňte ho na finální místo.
+[x] Vyrovnání do roviny: Pomocí vodováhy a nastavitelných nožiček srovnejte skříň tak, aby se nekývala a stála naprosto rovně.
+[x] Kotvení do zdi: Pomocí přiložených úhelníků připevněte horní část skříně ke zdi (hmoždinky a vruty vyberte podle typu vaší zdi – cihla, panel, sádrokarton). Bez kotvení hrozí při otevření dveří převržení.
 
 4) Vnitřní vybavení a skládací dveře
 
-• Police a tyče: Vložte podpěry polic do požadované výšky, položte na ně police a upevněte držáky na šatní tyč.
-• Sestavení dveří: Spojte jednotlivé panely skládacích dveří k sobě pomocí středových harmonikových pantů.
-• Zavěšení a seřízení: Nasaďte hotová křídla dveří na panty v korpusu skříně a zacvakněte horní vodicí kolečko do kolejničky. Nakonec šroubovákem jemně seřiďte panty tak, aby dveře nikde nedrhly a mezery mezi nimi byly rovnoměrné.
+[x] Police a tyče: Vložte podpěry polic do požadované výšky, položte na ně police a upevněte držáky na šatní tyč.
+[ ] Sestavení dveří: Spojte jednotlivé panely skládacích dveří k sobě pomocí středových harmonikových pantů.
+[ ] Zavěšení a seřízení: Nasaďte hotová křídla dveří na panty v korpusu skříně a zacvakněte horní vodicí kolečko do kolejničky. Nakonec šroubovákem jemně seřiďte panty tak, aby dveře nikde nedrhly a mezery mezi nimi byly rovnoměrné.
 <img width="1077" height="725" alt="Snímek obrazovky_19-11-2026_10746_www bing com" src="https://github.com/user-attachments/assets/0fdae044-ea42-40b8-8147-7f62875f3cb8" />
 https://manuall.cz/ikea-idanas-skrin/
