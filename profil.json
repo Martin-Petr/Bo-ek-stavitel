@@ -1,0 +1,15 @@
+{
+  "jmeno": "Link",
+  "vek": 117,
+  "je_plnolety": true,
+  "poznamka": null,
+  "vybava": {
+    "zbran": "Master Sword",
+    "stit": "Hylianský štít"
+  },
+  "dovednosti": [
+    "šerm",
+    "lukostřelba",
+    "lezení po stěnách"
+  ]
+}
